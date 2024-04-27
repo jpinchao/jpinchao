@@ -1,6 +1,6 @@
 ## Hola, Soy Raúl! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Soy Raúl Pinchao, estudiante de la [Universidad Nacional de Colombia](https://unal.edu.co/). Específicamente de la carrera de Administración de Sistemas Informáticos, mis intereses son el desarrollo web, la Ciberseguridad y la Inteligencia Artificial, en especial de los LLM. Algunas de mis redes son:
+Soy Raúl Pinchao, estudiante de la [Universidad Nacional de Colombia](https://unal.edu.co/). Específicamente de la carrera de [Administración de Sistemas Informáticos](https://www.manizales.unal.edu.co/menu/programas-academicos/carreras/administracion-de-sistemas-informaticos/), mis intereses son el desarrollo web, la Ciberseguridad y la Inteligencia Artificial, en especial de los LLM. Algunas de mis redes son:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-pinchao">
